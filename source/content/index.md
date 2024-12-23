@@ -1,4 +1,10 @@
 ---
 title: World of Ariath
 ---
-![[Ariath-zoom.png]]
+Welcome to Ariath.
+
+> [!col] 
+> ![[Ariath-full.png]]
+> 
+>>![[Ariath-zoom.png]]
+>> 
