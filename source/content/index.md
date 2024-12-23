@@ -1,4 +1,4 @@
 ---
 title: World of Ariath
 ---
-[[Ariath-zoom.png]]
+![[Ariath-zoom.png]]
