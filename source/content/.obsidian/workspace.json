@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52c408be3a995480",
+        "id": "e3dec7b8ccf07e42",
         "type": "tabs",
         "children": [
           {
-            "id": "46fec2c3ef3e7c57",
+            "id": "06a06639eeb92281",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,17 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46fec2c3ef3e7c57",
+  "active": "06a06639eeb92281",
   "lastOpenFiles": [
     "index.md",
     "category-folder/Intro Dalewatch.md",
+    "category-folder/index.md",
     "images/Dusty Mug.png",
     "images/Dalewatch.png",
     "category-folder/Some note.md",
     "images/Ariath-zoom.png",
     "images/Ariath-full.png",
     "images",
-    "category-folder/index.md",
     "category-folder"
   ]
 }
