@@ -11,10 +11,15 @@
             "id": "644dadb8e9ecb389",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +176,8 @@
   },
   "active": "644dadb8e9ecb389",
   "lastOpenFiles": [
+    "images/Ariath-zoom.png",
+    "images/Ariath-full.png",
     "category-folder/Some note.md",
     "index.md",
     "images",
