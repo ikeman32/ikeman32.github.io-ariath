@@ -3,8 +3,6 @@ title: World of Ariath
 ---
 Welcome to Ariath.
 
-> [!col] 
-> ![[Ariath-full.png]]
-> 
->>![[Ariath-zoom.png]]
->> 
+![[Ariath-full.png|337x404]] 
+![[Ariath-zoom.png|401x323]]
+

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Intro Dalewatch.md",
+                "file": "index.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Intro Dalewatch"
+              "title": "index"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "f0c01ff0062856cb",
   "lastOpenFiles": [
-    "alt.md",
     "category-folder/Intro Dalewatch.md",
     "index.md",
+    "alt.md",
     "category-folder/index.md",
     "images/Dusty Mug.png",
     "images/Dalewatch.png",
