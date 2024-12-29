@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -176,11 +176,13 @@
   },
   "active": "f0c01ff0062856cb",
   "lastOpenFiles": [
+    "category-folder/The Dusty Mug.md",
     "category-folder/Intro Dalewatch.md",
     "index.md",
+    "images/Dusty Mug.png",
+    "images/the-dusty-mug.png",
     "alt.md",
     "category-folder/index.md",
-    "images/Dusty Mug.png",
     "images/Dalewatch.png",
     "category-folder/Some note.md",
     "images/Ariath-zoom.png",

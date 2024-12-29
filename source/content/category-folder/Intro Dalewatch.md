@@ -1,5 +1,7 @@
 ---
 title: Dalewatch
+tags:
+  - Dalewatch
 ---
 
 
@@ -15,6 +17,7 @@ You’ve come to Dalewatch seeking adventure or perhaps a simple respite. But fa
 
 
 
+[[index|Home]] | [[The Dusty Mug|The Dusty Mug]]
 
 
 
