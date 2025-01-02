@@ -9,4 +9,7 @@ Welcome to Ariath.
 ## Places
 1. [[Intro Dalewatch|Farming village of Dalewatch]]
 	- [[The Dusty Mug|The Dusty Mug]]
-	
+
+## Sessions
+- [[Session 1 Transcript|Full Transcript]]
+	- [[Session 1 Summary|Summary]]
