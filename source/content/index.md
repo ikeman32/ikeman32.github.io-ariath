@@ -11,5 +11,6 @@ Welcome to Ariath.
 	- [[The Dusty Mug|The Dusty Mug]]
 
 ## Sessions
-- [[Session 1 Transcript|Full Transcript]]
+- [[Session 1 Transcript|Session 1 Transcript]]
 	- [[Session 1 Summary|Summary]]
+- [[Session 2 Transcript|Session 2 Transcript]] 

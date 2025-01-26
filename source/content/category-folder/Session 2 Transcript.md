@@ -3,6 +3,7 @@ title: Session 2 Transcript
 ---
 [[index|Home]]
 
+Partial transcript
 ### Notes:
 - A new player/character joined the game and shall be referred to as Bard2
 - The other bard shall be referred to as Bard1
